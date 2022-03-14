@@ -34,6 +34,5 @@ Il vous reste plus que a presenter une carte RFID et voirs se qu'il se passe !
 
 ## HELP
 
-En cas de probleme contacter moi sur Discord : ``_Noflare_
-#6621``
+En cas de probleme contacter moi sur Discord : ``_Noflare_#6621``
 
