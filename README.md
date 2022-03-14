@@ -30,6 +30,8 @@ Pour les branchement il suffit de suivre le tableau celont le modele de votre ca
 
 ## The End
 
+Ouvrer le ``moniteur Serie`` dans ``Outils -> Moniteur serie``
+
 Il vous reste plus que a presenter une carte RFID et voirs se qu'il se passe !
 
 ## HELP
