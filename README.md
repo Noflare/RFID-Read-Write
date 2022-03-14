@@ -28,7 +28,7 @@ Changer les variables ``RST_PIN`` et ``SS_PIN`` (en rouge) celont le modele de v
 
 Pour les branchement il suffit de suivre le tableau celont le modele de votre carte
 
-#The End
+## The End
 
 Il vous reste plus que a presenter une carte RFID et voirs se qu'il se passe !
 
